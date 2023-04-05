@@ -16,7 +16,7 @@ const About = () => {
             </p>
 
             <p>
-                In his spare time, he loves to do programming, inline skating, running, badminton, traveling, hiking, and camping.
+                In his spare time, he loves to do programming, inline skating, running, badminton, traveling, hiking, camping. Arief also active mentoring at ADPlist.
             </p>
 
             <h3 className="text-center">
